@@ -35,7 +35,7 @@ optional arguments:
 
 Enjoy!
 ```
-- **Dataset**: name of the folder where the paintings are located. This repo shares a small sample of images from the WikiArt dataset located in the /examples directory. You can try to run the app with your own images simply bu creating a new folder with the target images and giving the name as the -d argument.
+- **Dataset**: name of the folder where the paintings are located. This repo shares a small sample of images from the WikiArt dataset located in the /examples directory. You can try to run the app with your own images simply by creating a new folder with the target images and giving the name as the -d argument.
 - **Save**: This argument indicates the program whether is neccesary to compute the landmark points for the database. This repo already shares the landmark points for the /example database. Use this argument (simply include --save in the comand line) the first time you use a new image dataset. Once computed, a csv file with the landmark information of your database will be saved in the directory /outputs. 
 - **Input**: indicate the program if you want to capture similarity live from your webcam, or upload another image. 
 
