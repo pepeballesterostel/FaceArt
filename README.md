@@ -1,8 +1,7 @@
 # FaceArt
-
-Artwork retrieval based on face expression
-
-![screen](FaceArt.png)
+<p align="center">
+  <img src="https://github.com/pepeballesterostel/FaceArt/blob/main/FaceArt.png" width="200" />
+</p>
 
 ## Description
 
@@ -47,3 +46,4 @@ After the installation step, run the application:
 $ python FaceArt.py --dataset examples --input webcam
 ```
 The following options will pop up: *Running on local URL* and *Running on public URL*. Click one of the two options, and the web application will be launched in the browser.
+- **Important**: To end the application, go back to your terminal and press 'Ctrl + C'
