@@ -14,7 +14,7 @@ First, create a conda environment to locate all dependencies. Then, you can inst
 ```
 $ conda env create FaceArt
 $ conda activate FaceArt
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Usage 
